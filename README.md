@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyleroneil72
-- 👀 I’m interested in web development and all things software
+- 👀 I’m interested in Software Development and all things AI related
 - 🌱 I’m currently learning React
 - 📚 I'm currently a student studying computer programming in Toronto, Ontario, Canada
 <!---
