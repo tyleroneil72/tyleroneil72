@@ -2,6 +2,7 @@
 
 Aspiring Software Developer | Toronto, ON  
 tyleroneil72@gmail.com  
+<a href="https://linkedin.com/in/tyler-oneil-dev"><img src="https://img.shields.io/badge/-Tyler%20O'Neil%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/tyler-oneil-dev" alt="LinkedIn Badge"></a> 
 [LinkedIn](linkedin.com/in/tyler-oneil-dev)
 [Website](tyleroneil.dev)
 
