@@ -10,6 +10,8 @@ tyleroneil72@gmail.com
 Highly motivated and aspiring Software Developer with experience in building applications and websites. Skilled in a wide range of programming languages and technologies, with a passion for creating intuitive user experiences. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College. Previously attended The University
 of Toronto majoring in Computer Science and Mathematics.
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,python,java,cs,dotnet,bash,mysql,git,linux,wordpress,aws)](https://skillicons.dev)
+
 ## Work Experience
 
 ### Exchange Solutions Inc. - Software Developer Intern
@@ -43,8 +45,3 @@ September 2019 - April 2022 | Mississauga, ON
 - Relevant Courses: Introduction to Computer Programming, Introduction to Computer Science, Introduction to Mathematical Proofs
 - Active in the UTM MCSS (Mathematical and Computational Sciences Society)
 - Participated in the UofT Hart House chess club
-
-## Skills & Interests
-
-- **Skills**: HTML/CSS/JavaScript, Bootstrap, Python, Java, SQL, C#, .NET, BASH, Linux, WordPress, Node.JS, AWS
-- **Interests**: Web Development, Chess, Guitar, Basketball, Cryptocurrency
