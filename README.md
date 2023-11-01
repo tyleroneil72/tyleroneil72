@@ -10,7 +10,9 @@ tyleroneil72@gmail.com
 Highly motivated and aspiring Software Developer with experience in building applications and websites. Skilled in a wide range of programming languages and technologies, with a passion for creating intuitive user experiences. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College. Previously attended The University
 of Toronto majoring in Computer Science and Mathematics.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,python,java,cs,dotnet,bash,mysql,git,linux,wordpress,aws)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,python,java,cs,bash,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet)](https://skillicons.dev)
 
 ## Work Experience
 
