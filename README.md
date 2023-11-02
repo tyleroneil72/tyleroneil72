@@ -4,12 +4,14 @@ Aspiring Software Developer | Toronto, ON
 tyleroneil72@gmail.com  
 
 <a href="https://linkedin.com/in/tyler-oneil-dev"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=Linkedin&logoColor=blue" alt="Linked Badge"></a> 
-<a href="https://tyleroneil.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website Badge"></a> 
+<a href="https://tyleroneil.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"></a> 
+<a href="https://github.com/tyleroneil72/personal-documents/blob/main/Tyler_O'Neil-Resume.pdf"><img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Website Badge"></a> 
 
 ## About Me
 
 Highly motivated and aspiring Software Developer with experience in building applications and websites. Skilled in a wide range of programming languages and technologies, with a passion for creating intuitive user experiences. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College. Previously attended The University
 of Toronto majoring in Computer Science and Mathematics.
+
 ## My Skills and Tools
 ![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,expressjs,python,java,cs,bash,mysql)
 
