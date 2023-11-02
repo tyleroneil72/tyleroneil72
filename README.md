@@ -45,6 +45,6 @@ Graduating April 2025 | Toronto, ON
 Honours Bachelor of Science, Computer Science and Pure Mathematics  
 September 2019 - April 2022 | Mississauga, ON
 
-- Relevant Courses: Introduction to Computer Programming, Introduction to Computer Science, Introduction to Mathematical Proofs
+- Relevant Courses: Introduction to Computer Programming, Introduction to Computer Science, Introduction to Mathematical Proofs, Calculus, Logic
 - Active in the UTM MCSS (Mathematical and Computational Sciences Society)
 - Participated in the UofT Hart House chess club
