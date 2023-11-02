@@ -38,7 +38,7 @@ Advanced Diploma, Computer Programming and Analysis
 Graduating April 2025 | Toronto, ON
 
 - Dean's list with a 3.85 / 4.0 GPA (Fall 2022; Winter 2023)
-- Relevant Courses: Advanced Web Programming, Introduction to Full-Stack Development, Advanced Database Development, Advanced Object Oriented Programming, Linux Essentials
+- Relevant Courses: Advanced Web Programming, Introduction to Full-Stack Development, Advanced Database Development, Advanced Object Oriented Programming, Java Application Development, Linux Essentials
 - Active in the GBC IEEEXtreme Competitive Programming Team
 
 **University of Toronto, Mississauga**  
