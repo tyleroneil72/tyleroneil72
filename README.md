@@ -13,7 +13,7 @@ Highly motivated and aspiring Software Developer with experience in building app
 of Toronto majoring in Computer Science and Mathematics.
 
 ## My Skills and Tools
-![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,expressjs,python,java,cs,bash,mysql)
+![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,expressjs,python,java,cs,bash,mysql)
 
 ![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet)
 
