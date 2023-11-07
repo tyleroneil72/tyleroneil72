@@ -15,7 +15,7 @@ of Toronto majoring in Computer Science and Mathematics.
 ## My Skills and Tools
 ![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,expressjs,python,java,cs,bash,mysql)
 
-![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet)
+![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet,vite)
 
 ## Work Experience
 
