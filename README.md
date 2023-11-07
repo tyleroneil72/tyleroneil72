@@ -7,17 +7,17 @@ tyleroneil72@gmail.com
 <a href="https://tyleroneil.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"></a> 
 <a href="https://github.com/tyleroneil72/personal-documents/blob/main/Tyler_O'Neil-Resume.pdf"><img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Resume Badge"></a> 
 
-## About Me [![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#about-me)
+## About Me[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#about-me)
 
 Highly motivated and aspiring Software Developer with experience in building applications and websites. Skilled in a wide range of programming languages and technologies, with a passion for creating intuitive user experiences. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College. Previously attended The University
 of Toronto majoring in Computer Science and Mathematics.
 
-## My Skills and Tools [![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
+## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
 ![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,expressjs,python,java,cs,bash,mysql)
 
 ![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet,vite)
 
-## Work Experience [![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#work-experience)
+## Work Experience[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#work-experience)
 
 ### Exchange Solutions Inc. - Software Developer Intern
 May 2023 – September 2023 | Toronto, ON
@@ -33,7 +33,7 @@ December 2022 – April 2023 | Vaughan, ON
 - Assisted in shaping user interface to align with company branding, enhancing user experience.
 - Utilized HTML and CSS to optimize website performance and appearance.
 
-## Education [![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#education)
+## Education[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#education)
 
 **George Brown College**  
 Advanced Diploma, Computer Programming and Analysis  
