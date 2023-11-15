@@ -15,7 +15,7 @@ of Toronto majoring in Computer Science and Mathematics.
 ## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
 ![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,python,java,cs,bash,mysql)
 
-![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,dotnet,vite)
+![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,firebase,dotnet,vite)
 
 ## Work Experience[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#work-experience)
 
