@@ -13,9 +13,9 @@ Highly motivated and aspiring Software Developer with experience in building app
 of Toronto majoring in Computer Science and Mathematics.
 
 ## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
-![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash,mysql)
+![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash)
 
-![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,wordpress,firebase,dotnet,vite)
+![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,mysql,wordpress,firebase,dotnet,vite)
 
 ## Work Experience[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#work-experience)
 
