@@ -17,18 +17,3 @@ of Toronto majoring in Computer Science and Mathematics.
 
 ![My Skills](https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,mysql,wordpress,firebase,dotnet,vite)
 
-## Work Experience[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#work-experience)
-
-### Exchange Solutions Inc. - Software Developer Intern
-May 2023 – September 2023 | Toronto, ON
-
-- Developed Node.js scripts for proof of concept applications, contributing to innovative projects such as Retrieval Augmented AI Agents and Digital Coupon Automation.
-- Collaborated with cross-functional teams, assisting in the development of new technologies and applications.
-- Worked closely with senior developers and researchers to validate concepts and ensure alignment with project goals.
-
-### PresenTEC Solutions - Front-End Developer Intern
-December 2022 – April 2023 | Vaughan, ON
-
-- Maintained and enhanced company website using WordPress, ensuring up-to-date functionality.
-- Assisted in shaping user interface to align with company branding, enhancing user experience.
-- Utilized HTML and CSS to optimize website performance and appearance.
