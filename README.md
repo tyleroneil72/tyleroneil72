@@ -9,8 +9,7 @@ tyleroneildev@gmail.com
 
 ## About Me[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#about-me)
 
-Highly motivated and aspiring Software Developer with experience in building applications and websites. Skilled in a wide range of programming languages and technologies, with a passion for creating intuitive user experiences. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College. Previously attended The University
-of Toronto majoring in Computer Science and Mathematics.
+Highly motivated Software Developer with hands-on experience in crafting applications and websites. I've served as a Software Developer Intern at Exchange Solutions Inc, contributing to cutting-edge projects involving Node.js for applications like Retrieval Augmented AI Agents and Digital Coupon Automation. Additionally, my role as a Front-End Developer Intern at PresenTEC Solutions involved maintaining and enhancing company websites using WordPress, ensuring optimal functionality and user experience. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College after previously attending The University of Toronto majoring in Computer Science and Mathematics before transferring.
 
 ## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
 ![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash)
