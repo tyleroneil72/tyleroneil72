@@ -13,7 +13,7 @@ Highly motivated aspiring Software Developer with hands-on experience in craftin
 
 ## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash,r" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,vscode,visualstudio,git,linux,mysql,wordpress,firebase,dotnet,vite" />
