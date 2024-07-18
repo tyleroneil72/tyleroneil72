@@ -1,6 +1,6 @@
 # Hi, I'm Tyler O’Neil!
 
-Aspiring Software Developer | Toronto, ON  
+Software Developer | Toronto, ON  
 tyleroneildev@gmail.com  
 
 <a href="https://linkedin.com/in/tyler-oneil-dev"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linked Badge"></a> 
