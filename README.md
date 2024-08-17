@@ -9,7 +9,7 @@ tyleroneildev@gmail.com
 
 ## About Me[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#about-me)
 
-Highly motivated Software Developer with hands-on experience in crafting applications and websites. I've served as a `Software Developer Intern at Exchange Solutions Inc`, contributing to cutting-edge projects involving Node.js for applications like Retrieval Augmented AI Agents and Digital Coupon Automation. Additionally, my role as a `Front-End Developer Intern at PresenTEC Solutions` involved maintaining and enhancing company websites using WordPress, ensuring optimal functionality and user experience. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College after previously attending The University of Toronto majoring in Computer Science and Mathematics before transferring.
+Highly motivated Software Developer with hands-on experience in crafting applications and websites. I've completed two internships as a `Software Developer Intern at Exchange Solutions Inc`, contributing to the core loyalty product for clients such as Rexall, Esso, etc. Additionally, my role as a `Front-End Developer Intern at PresenTEC Solutions` involved maintaining and enhancing websites, ensuring optimal functionality and user experience. Currently pursuing an Advanced Diploma in Computer Programming and Analysis at George Brown College after previously attending The University of Toronto majoring in Computer Science and Mathematics before transferring.
 
 ## My Skills and Tools[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#my-skills-and-tools)
 
@@ -17,5 +17,5 @@ Highly motivated Software Developer with hands-on experience in crafting applica
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash,r" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,vscode,neovim,git,linux,mysql,sqlite,mongodb,wordpress,firebase,dotnet,vite,latex" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,vscode,neovim,git,linux,jest,mysql,sqlite,mongodb,wordpress,firebase,dotnet,vite,latex" />
 </p>
