@@ -17,5 +17,5 @@ Highly motivated Software Developer with hands-on experience in crafting applica
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,php,python,java,cs,bash,r" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,vscode,neovim,git,linux,jest,mysql,sqlite,mongodb,wordpress,firebase,dotnet,vite,latex" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,vscode,neovim,git,linux,jest,mysql,sqlite,mongodb,firebase,dotnet,vite,latex" />
 </p>
