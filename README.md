@@ -1,4 +1,4 @@
-# Hi, I'm Tyler O’Neil!
+# Tyler O’Neil
 
 Software Developer | Toronto, ON  
 
